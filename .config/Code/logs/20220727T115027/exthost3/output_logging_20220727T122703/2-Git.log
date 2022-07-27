@@ -1,0 +1,30 @@
+[2022-07-27T11:27:04.008Z] Validating found git in: git
+[2022-07-27T11:27:04.075Z] Using git 2.25.1 from git
+[2022-07-27T11:27:04.120Z] > git rev-parse --show-toplevel [37ms]
+[2022-07-27T11:27:04.120Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-27T11:27:24.775Z] > git rev-parse --show-toplevel [77ms]
+[2022-07-27T11:27:24.775Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-27T11:35:45.698Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-27T11:35:45.706Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-07-27T11:35:45.712Z] Open repository: /home/codevillage/Desktop/workspace/pact
+[2022-07-27T11:35:45.722Z] > git status -z -uall [2ms]
+[2022-07-27T11:35:45.729Z] > git symbolic-ref --short HEAD [1ms]
+[2022-07-27T11:35:45.737Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-07-27T11:35:45.754Z] > git remote --verbose [4ms]
+[2022-07-27T11:35:45.754Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-07-27T11:35:45.764Z] > git config --get commit.template [0ms]
+[2022-07-27T11:35:46.048Z] > git show --textconv :index.html [8ms]
+[2022-07-27T11:35:46.049Z] > git ls-files --stage -- /home/codevillage/Desktop/workspace/pact/index.html [2ms]
+[2022-07-27T11:35:46.266Z] > git check-ignore -v -z --stdin [2ms]
+[2022-07-27T12:03:56.530Z] > git status -z -uall [13ms]
+[2022-07-27T12:03:56.542Z] > git symbolic-ref --short HEAD [2ms]
+[2022-07-27T12:03:56.552Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-07-27T12:03:56.566Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-07-27T12:03:56.569Z] > git remote --verbose [4ms]
+[2022-07-27T12:03:56.587Z] > git config --get commit.template [1ms]
+[2022-07-27T12:04:01.603Z] > git status -z -uall [2ms]
+[2022-07-27T12:04:01.613Z] > git symbolic-ref --short HEAD [2ms]
+[2022-07-27T12:04:01.621Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-07-27T12:04:01.634Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-07-27T12:04:01.635Z] > git remote --verbose [3ms]
+[2022-07-27T12:04:01.643Z] > git config --get commit.template [2ms]

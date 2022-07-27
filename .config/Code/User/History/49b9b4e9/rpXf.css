@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+    width: 100vw;
+}
+
+main {
+    width: 23rem;
+    margin: auto;
+    height: auto;
+    background-color: silver;
+}
+
+header {
+    border-bottom: 1px solid blue;
+}
+
+.hd-text {
+    display: flex;
+    jus
+}

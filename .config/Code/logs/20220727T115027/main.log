@@ -1,0 +1,22 @@
+[2022-07-27 11:50:27.902] [main] [info] window#load: attempt to load window (id: 1)
+[2022-07-27 11:50:27.920] [main] [info] update#setState idle
+[2022-07-27 11:50:28.000] [main] [info] ExtensionHostStarterWorker created
+[2022-07-27 11:50:29.278] [main] [info] window#load: window reported ready (id: 1)
+[2022-07-27 11:50:29.698] [main] [info] Starting extension host with pid 29367 (fork() took 14 ms).
+[2022-07-27 11:50:29.698] [main] [info] ExtensionHostStarterWorker.start() took 16 ms.
+[2022-07-27 11:50:57.933] [main] [info] update#setState checking for updates
+[2022-07-27 11:50:57.947] [main] [info] update#setState available for download
+[2022-07-27 12:26:46.308] [main] [info] window#load: attempt to load window (id: 3)
+[2022-07-27 12:26:47.417] [main] [info] window#load: window reported ready (id: 3)
+[2022-07-27 12:26:47.800] [main] [info] Starting extension host with pid 31101 (fork() took 23 ms).
+[2022-07-27 12:26:47.803] [main] [info] ExtensionHostStarterWorker.start() took 34 ms.
+[2022-07-27 12:27:01.464] [main] [info] window#load: attempt to load window (id: 3)
+[2022-07-27 12:27:01.490] [main] [info] Extension host with pid 31101 exited with code: 0, signal: null.
+[2022-07-27 12:27:02.327] [main] [info] window#load: window reported ready (id: 3)
+[2022-07-27 12:27:02.891] [main] [info] Starting extension host with pid 31163 (fork() took 34 ms).
+[2022-07-27 12:27:02.899] [main] [info] ExtensionHostStarterWorker.start() took 50 ms.
+[2022-07-27 13:21:27.749] [main] [info] Extension host with pid 31163 exited with code: 0, signal: null.
+[2022-07-27 13:33:45.028] [main] [info] window#load: attempt to load window (id: 4)
+[2022-07-27 13:33:46.109] [main] [info] window#load: window reported ready (id: 4)
+[2022-07-27 13:33:46.530] [main] [info] Starting extension host with pid 34538 (fork() took 32 ms).
+[2022-07-27 13:33:46.530] [main] [info] ExtensionHostStarterWorker.start() took 78 ms.

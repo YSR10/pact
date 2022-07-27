@@ -1,0 +1,10 @@
+[2022-07-25 16:27:30.285] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-07-25 16:27:31.448] [renderer1] [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {"name":"Offline"}
+[2022-07-25 16:27:33.055] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Offline"}
+[2022-07-25 16:28:08.791] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-07-25 16:28:08.849] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Offline"}
+[2022-07-25 16:28:10.090] [renderer1] [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {"name":"Offline"}

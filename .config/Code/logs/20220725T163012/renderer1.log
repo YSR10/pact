@@ -1,0 +1,5 @@
+[2022-07-25 16:30:16.737] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-07-25 16:30:17.544] [renderer1] [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {"name":"Offline"}
+[2022-07-25 16:30:19.528] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Offline"}

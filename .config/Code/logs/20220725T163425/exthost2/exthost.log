@@ -1,0 +1,7 @@
+[2022-07-25 16:34:31.326] [exthost] [info] Extension host with pid 4651 started
+[2022-07-25 16:34:31.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-25 16:34:31.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-25 16:34:31.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-25 16:34:31.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-25 16:34:31.931] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-25 16:34:31.933] [exthost] [info] Extension host with pid 4651 exiting with code 0

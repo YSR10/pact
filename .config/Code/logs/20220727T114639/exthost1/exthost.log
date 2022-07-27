@@ -1,0 +1,29 @@
+[2022-07-27 11:46:42.192] [exthost] [info] Extension host with pid 29010 started
+[2022-07-27 11:46:42.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-27 11:46:42.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-27 11:46:42.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-27 11:46:42.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-27 11:46:42.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-27 11:46:42.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-27 11:46:42.640] [exthost] [info] Eager extensions activated
+[2022-07-27 11:46:42.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-27 11:46:42.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-27 11:46:42.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-27 11:46:42.707] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-27 11:47:44.382] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-27 11:47:44.393] [exthost] [info] Extension host with pid 29010 exiting with code 0
+[2022-07-27 11:47:47.029] [exthost] [info] Extension host with pid 29123 started
+[2022-07-27 11:47:47.029] [exthost] [info] Skipping acquiring lock for /home/codevillage/.config/Code/User/workspaceStorage/b13f55cc28f2426a1b1ccd1a6bd821da.
+[2022-07-27 11:47:47.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-27 11:47:47.230] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-27 11:47:47.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-27 11:47:47.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-27 11:47:47.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-27 11:47:47.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-27 11:47:47.431] [exthost] [info] Eager extensions activated
+[2022-07-27 11:47:47.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-27 11:47:47.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-27 11:47:47.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-27 11:47:47.469] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-27 11:47:59.949] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-27 11:47:59.961] [exthost] [info] Extension host with pid 29123 exiting with code 0

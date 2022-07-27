@@ -1,0 +1,52 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    backgroung-color: blue;
+    width: 100vw;
+}
+
+main {
+    width: 23rem;
+    margin: auto;
+    height: auto;
+    background-color: silver;
+}
+
+header {
+    border-bottom: 1px solid gray;
+}
+
+.hd-bars {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.hd-text {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.shape {
+    margin-bottom: 1.5px;
+}
+
+.frame {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px;
+}
+
+.photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 13rem;
+    margin-right: 3px;
+    border-bottom: 1px solid gray;
+}

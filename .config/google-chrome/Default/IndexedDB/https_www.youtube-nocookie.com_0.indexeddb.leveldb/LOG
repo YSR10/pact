@@ -1,0 +1,6 @@
+2022/07/18-22:50:06.921 10c5 Creating DB /home/codevillage/.config/google-chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2022/07/18-22:50:06.938 10c5 Reusing MANIFEST /home/codevillage/.config/google-chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-23:20:41.524 1287 Level-0 table #5: started
+2022/07/18-23:20:41.531 1287 Level-0 table #5: 1203 bytes OK
+2022/07/18-23:20:41.537 1287 Delete type=0 #3
+2022/07/18-23:20:41.537 1287 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

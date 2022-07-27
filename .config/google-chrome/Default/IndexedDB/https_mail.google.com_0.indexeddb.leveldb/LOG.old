@@ -1,0 +1,6 @@
+2022/07/25-11:29:43.288 6a6 Reusing MANIFEST /home/codevillage/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/25-11:29:43.288 6a6 Recovering log #3
+2022/07/25-11:29:43.299 6a6 Reusing old log /home/codevillage/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/07/25-11:30:12.910 6a6 Level-0 table #5: started
+2022/07/25-11:30:12.961 6a6 Level-0 table #5: 1847791 bytes OK
+2022/07/25-11:30:12.966 6a6 Delete type=0 #3

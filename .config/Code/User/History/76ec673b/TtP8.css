@@ -1,0 +1,9 @@
+.text {
+    text-align: center;
+}
+
+.major {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

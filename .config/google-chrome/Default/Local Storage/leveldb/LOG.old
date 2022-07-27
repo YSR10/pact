@@ -1,0 +1,9 @@
+2022/07/27-09:49:57.010 3 Reusing MANIFEST /home/codevillage/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/07/27-09:49:57.011 3 Recovering log #481
+2022/07/27-09:49:57.011 3 Reusing old log /home/codevillage/.config/google-chrome/Default/Local Storage/leveldb/000481.log 
+2022/07/27-09:55:30.101 3 Level-0 table #486: started
+2022/07/27-09:55:30.117 3 Level-0 table #486: 122284 bytes OK
+2022/07/27-09:55:30.129 3 Delete type=0 #481
+2022/07/27-09:58:05.473 3 Level-0 table #488: started
+2022/07/27-09:58:05.483 3 Level-0 table #488: 116309 bytes OK
+2022/07/27-09:58:05.497 3 Delete type=0 #485

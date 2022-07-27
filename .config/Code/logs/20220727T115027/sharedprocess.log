@@ -1,0 +1,16 @@
+[2022-07-27 11:50:31.495] [sharedprocess] [info] Starting worker process with pid 29424 (type: fileWatcher, window: 1).
+[2022-07-27 12:26:47.894] [sharedprocess] [info] Starting worker process with pid 31102 (type: fileWatcher, window: 3).
+[2022-07-27 12:27:01.483] [sharedprocess] [info] Worker process with pid 31102 terminated normally (type: fileWatcher, window: 3).
+[2022-07-27 12:27:02.904] [sharedprocess] [info] Starting worker process with pid 31164 (type: fileWatcher, window: 3).
+[2022-07-27 13:05:01.827] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/workspaceRecommendations.json.gz {}
+[2022-07-27 13:05:01.828] [sharedprocess] [error] Error: XHR failed
+    at XMLHttpRequest.R.onerror (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:21:26995)
+[2022-07-27 13:08:32.641] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-07-27 13:08:32.653] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-07-27 13:08:44.947] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/codevillage/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-07-27 13:08:45.484] [sharedprocess] [info] Extracted extension to /home/codevillage/.vscode/extensions/.c05eef05-b67e-4a12-93ac-1ccc5a5c7ed4: esbenp.prettier-vscode
+[2022-07-27 13:08:45.493] [sharedprocess] [info] Renamed to /home/codevillage/.vscode/extensions/esbenp.prettier-vscode-9.5.0
+[2022-07-27 13:08:45.501] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-07-27 13:08:45.509] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-07-27 13:21:27.730] [sharedprocess] [info] Worker process with pid 31164 terminated normally (type: fileWatcher, window: 3).
+[2022-07-27 13:33:46.532] [sharedprocess] [info] Starting worker process with pid 34537 (type: fileWatcher, window: 4).

@@ -1,0 +1,135 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/codevillage/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=xapp-gtk3-module:gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon2d:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon2d
+dbus-update-activation-environment: setting GTK_MODULES=xapp-gtk3-module:gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/codevillage
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon2d
+dbus-update-activation-environment: setting LOGNAME=codevillage
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/codevillage/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/codevillage
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/codevillage
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=codevillage
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon2d:/usr/share/gnome:/home/codevillage/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon2d
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:21:50.163: Existing monitor config (/home/codevillage/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Cinnamon warning: Software rendering detected: llvmpipe (LLVM 10.0.0, 256 bits)
+Cjs-Message: 09:21:51.344: Profiler is disabled. Not setting up signals.
+Clutter-Message: 09:21:51.390: Sync method: PRESENTATION TIME
+Cjs-Message: 09:21:51.556: JS LOG: About to start Cinnamon
+Cjs-Message: 09:21:51.556: JS LOG: ACTIVATING SOFTWARE RENDERING
+Cjs-Message: 09:21:51.557: JS LOG: [LookingGlass/error] Cinnamon Software Rendering mode enabled
+Cjs-Message: 09:21:51.657: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 98 ms
+Cjs-Message: 09:21:51.668: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 09:21:51.686: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+Cjs-Message: 09:21:51.967: JS LOG: [LookingGlass/info] loaded at Wed Jul 27 2022 09:21:51 GMT+0100 (West Africa Standard Time)
+Cjs-Message: 09:21:51.967: JS LOG: Cinnamon started at Wed Jul 27 2022 09:21:51 GMT+0100 (West Africa Standard Time)
+Cjs-Message: 09:21:51.987: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Cjs-Message: 09:21:51.987: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Cjs-Message: 09:21:51.987: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 09:21:52.071: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 53 ms
+Cjs-Message: 09:21:52.076: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 09:21:52.079: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 8 ms
+St-Message: 09:21:52.088: cogl npot texture sizes SUPPORTED
+Cjs-Message: 09:21:52.127: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 48 ms
+Cjs-Message: 09:21:52.134: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 7 ms
+Cjs-Message: 09:21:52.143: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 9 ms
+Cjs-Message: 09:21:52.167: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 24 ms
+Cjs-Message: 09:21:52.184: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 17 ms
+Cjs-Message: 09:21:52.194: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 09:21:52.207: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 23 ms
+Cjs-Message: 09:21:52.229: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 22 ms
+Cjs-Message: 09:21:52.258: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 09:21:52.274: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 45 ms
+Cjs-Message: 09:21:52.292: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 18 ms
+
+** (csd-power:1138): CRITICAL **: 09:21:52.309: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 09:21:52.347: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 55 ms
+Cjs-Message: 09:21:52.409: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 62 ms
+Cjs-Message: 09:21:52.845: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 436 ms
+Cjs-Message: 09:21:52.846: JS LOG: [LookingGlass/info] AppletManager started in 878 ms
+Cjs-Message: 09:21:52.868: JS LOG: [LookingGlass/info] Cinnamon took 1311 ms to start
+Cjs-Message: 09:21:53.094: JS LOG: Unknown network device type, is 14
+Cjs-Message: 09:21:53.196: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+** Message: 09:21:53.504: nemo-desktop: session is cinnamon, establishing proxy
+Nemo-Share-Message: 09:21:54.216: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+cinnamon-session[961]: WARNING: t+8.44748s: Detected that screensaver has appeared on the bus
+Cjs-Message: 09:22:10.257: JS LOG: wireless_set_enabled
+Cjs-Message: 09:22:13.483: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.96/org/x/StatusIcon/Icon)
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+Cjs-Message: 09:22:33.176: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.115/org/x/StatusIcon/Icon)
+[1624:1636:0727/092240.028245:ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1624:1636:0727/092240.248022:ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1624:1636:0727/092240.288108:ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1624:1636:0727/092240.880412:ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -100
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[2148:2148:0727/092940.684876:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[2819:2848:0727/095010.218310:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2819:2848:0727/095048.971489:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+[2819:2848:0727/095151.394349:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+nm-applet-Message: 09:52:11.071: No keyring secrets found for Auto Airtel 4G MiFi_CEBC/802-11-wireless-security; asking user.
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3800008 (Wi-Fi Netw)
+[2819:2848:0727/095212.540085:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Fontconfig error: Cannot load default config file: No such file: (null)
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+Fontconfig error: Cannot load default config file: No such file: (null)
+[4128:4157:0727/111316.317363:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+nm-applet-Message: 11:13:25.770: No keyring secrets found for Auto NOTE 7/802-11-wireless-security; asking user.
+nm-applet-Message: 11:13:35.889: No keyring secrets found for Auto NOTE 7/802-11-wireless-security; asking user.
+[4128:4157:0727/111343.532027:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[28897:0727/114639.308446:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[28918:0727/114639.397548:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[28943:0727/114639.482604:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[28997:0727/114759.977631:ERROR:node_controller.cc(585)] Trying to re-add dropped peer E2879295B8A42DFC.148C28F8CAED213
+[28943:0727/114759.977955:ERROR:node_controller.cc(585)] Trying to re-add dropped peer E2879295B8A42DFC.148C28F8CAED213
+[4128:4128:0727/115939.061806:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+[4172:4178:0727/120037.755971:ERROR:quic_idle_network_detector.cc(101)] SetAlarm called after stopped
+Fontconfig error: Cannot load default config file: No such file: (null)
+[4172:4178:0727/123025.678218:ERROR:ssl_client_socket_impl.cc(999)] handshake failed; returned -1, SSL error code 1, net_error -100
+[4128:4157:0727/123202.118055:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Cjs-Message: 12:32:06.224: JS LOG: An active wireless connection, in infrastructure mode, involves no access point?
+Cjs-Message: 12:32:16.196: JS LOG: An active wireless connection, in infrastructure mode, involves no access point?
+[4128:4157:0727/123233.859190:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+[4128:4157:0727/123328.992096:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+[4128:4157:0727/123516.761148:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+[4128:4157:0727/123834.134726:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+[4128:4157:0727/124642.998332:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+[4172:4178:0727/132423.136625:ERROR:quic_idle_network_detector.cc(101)] SetAlarm called after stopped
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[34187:0727/132754.714648:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[34482:0727/133344.913071:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[34498:0727/133344.966000:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4128:4157:0727/133636.667001:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

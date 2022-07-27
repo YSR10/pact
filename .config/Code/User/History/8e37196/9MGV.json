@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "editor.wordWrap": "bounded",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

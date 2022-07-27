@@ -1,0 +1,12 @@
+2022/07/20-10:23:05.189 6183 Reusing MANIFEST /home/codevillage/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/20-10:23:05.189 6183 Recovering log #40
+2022/07/20-10:23:05.208 6183 Reusing old log /home/codevillage/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000040.log 
+2022/07/20-11:14:22.287 6521 Level-0 table #45: started
+2022/07/20-11:14:22.313 6521 Level-0 table #45: 1034790 bytes OK
+2022/07/20-11:14:22.329 6521 Delete type=0 #40
+2022/07/20-11:14:35.371 646f Compacting 1@1 + 1@2 files
+2022/07/20-11:14:35.402 646f Generated table #46@1: 1072 keys, 71665 bytes
+2022/07/20-11:14:35.402 646f Compacted 1@1 + 1@2 files => 71665 bytes
+2022/07/20-11:14:35.416 646f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/20-11:14:35.416 646f Delete type=2 #42
+2022/07/20-11:14:35.416 646f Delete type=2 #45

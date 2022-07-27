@@ -1,0 +1,10 @@
+[2022-07-25 16:34:30.521] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-07-25 16:34:33.546] [sharedprocess] [info] Starting worker process with pid 4725 (type: fileWatcher, window: 1).
+[2022-07-25 16:34:33.548] [sharedprocess] [info] Starting worker process with pid 4726 (type: fileWatcher, window: 2).
+[2022-07-25 16:34:33.803] [sharedprocess] [info] Worker process with pid 4726 terminated normally (type: fileWatcher, window: 2).
+[2022-07-25 16:39:33.942] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-07-25 16:44:33.955] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-07-25 16:49:33.967] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-07-25 16:54:33.999] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-07-25 16:59:34.024] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-07-25 17:04:34.035] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}

@@ -1,0 +1,12 @@
+[2022-07-27 13:05:48.869] [renderer3] [info] Setting search error: Unexpected end of JSON input
+[2022-07-27 13:05:48.905] [renderer3] [info] Setting search error: Unexpected end of JSON input
+[2022-07-27 13:08:06.230] [renderer3] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+[2022-07-27 13:13:57.545] [renderer3] [error] RequestService#request (browser) - error https://bingsettingssearch.trafficmanager.net/api/Search {}
+[2022-07-27 13:13:57.546] [renderer3] [info] Setting search error: XHR timeout: 5000ms
+[2022-07-27 13:13:57.549] [renderer3] [error] RequestService#request (browser) - error https://bingsettingssearch.trafficmanager.net/api/Search {}
+[2022-07-27 13:13:57.552] [renderer3] [info] Setting search error: XHR timeout: 5000ms
+[2022-07-27 13:14:09.487] [renderer3] [info] Setting search error: Unexpected end of JSON input
+[2022-07-27 13:14:10.045] [renderer3] [info] Setting search error: Unexpected end of JSON input
+[2022-07-27 13:14:58.218] [renderer3] [info] Setting search error: Unexpected end of JSON input
+[2022-07-27 13:14:58.945] [renderer3] [info] Setting search error: Unexpected end of JSON input
+[2022-07-27 13:20:34.017] [renderer3] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

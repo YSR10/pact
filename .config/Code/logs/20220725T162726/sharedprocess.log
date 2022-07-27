@@ -1,0 +1,8 @@
+[2022-07-25 16:27:30.043] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-07-25 16:27:32.118] [sharedprocess] [info] Starting worker process with pid 1893 (type: fileWatcher, window: 2).
+[2022-07-25 16:27:32.121] [sharedprocess] [info] Starting worker process with pid 1894 (type: fileWatcher, window: 1).
+[2022-07-25 16:27:53.275] [sharedprocess] [info] Worker process with pid 1893 terminated normally (type: fileWatcher, window: 2).
+[2022-07-25 16:27:54.607] [sharedprocess] [info] Starting worker process with pid 1957 (type: fileWatcher, window: 2).
+[2022-07-25 16:28:00.000] [sharedprocess] [info] Worker process with pid 1957 terminated normally (type: fileWatcher, window: 2).
+[2022-07-25 16:28:06.698] [sharedprocess] [info] Worker process with pid 1894 terminated normally (type: fileWatcher, window: 1).
+[2022-07-25 16:28:08.010] [sharedprocess] [info] Starting worker process with pid 2001 (type: fileWatcher, window: 1).

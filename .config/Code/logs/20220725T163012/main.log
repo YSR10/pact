@@ -1,0 +1,16 @@
+[2022-07-25 16:30:12.715] [main] [info] window#load: attempt to load window (id: 1)
+[2022-07-25 16:30:12.747] [main] [info] update#setState idle
+[2022-07-25 16:30:12.893] [main] [info] ExtensionHostStarterWorker created
+[2022-07-25 16:30:13.413] [main] [info] window#load: attempt to load window (id: 2)
+[2022-07-25 16:30:14.935] [main] [info] window#load: window reported ready (id: 1)
+[2022-07-25 16:30:15.472] [main] [info] Starting extension host with pid 3530 (fork() took 30 ms).
+[2022-07-25 16:30:15.473] [main] [info] ExtensionHostStarterWorker.start() took 32 ms.
+[2022-07-25 16:30:15.542] [main] [info] window#load: window reported ready (id: 2)
+[2022-07-25 16:30:16.424] [main] [info] Starting extension host with pid 3570 (fork() took 91 ms).
+[2022-07-25 16:30:16.425] [main] [info] ExtensionHostStarterWorker.start() took 116 ms.
+[2022-07-25 16:30:18.312] [main] [info] Extension host with pid 3570 exited with code: 0, signal: null.
+[2022-07-25 16:30:42.758] [main] [info] update#setState checking for updates
+[2022-07-25 16:30:42.765] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-07-25 16:30:42.766] [main] [info] update#setState idle

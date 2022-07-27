@@ -1,0 +1,6 @@
+2022/06/23-15:47:13.597 2294 Creating DB /home/codevillage/.config/google-chrome/Default/IndexedDB/https_best.aliexpress.com_0.indexeddb.leveldb since it was missing.
+2022/06/23-15:47:13.616 2294 Reusing MANIFEST /home/codevillage/.config/google-chrome/Default/IndexedDB/https_best.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/23-15:47:44.168 2227 Level-0 table #5: started
+2022/06/23-15:47:44.178 2227 Level-0 table #5: 77600 bytes OK
+2022/06/23-15:47:44.181 2227 Delete type=0 #3
+2022/06/23-15:47:44.181 2227 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,116 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/codevillage/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=xapp-gtk3-module:gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon2d:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon2d
+dbus-update-activation-environment: setting GTK_MODULES=xapp-gtk3-module:gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/codevillage
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon2d
+dbus-update-activation-environment: setting LOGNAME=codevillage
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/codevillage/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/codevillage
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/codevillage
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=codevillage
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon2d:/usr/share/gnome:/home/codevillage/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon2d
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:26:30.317: Existing monitor config (/home/codevillage/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Cinnamon warning: Software rendering detected: llvmpipe (LLVM 10.0.0, 256 bits)
+Cjs-Message: 09:26:31.469: Profiler is disabled. Not setting up signals.
+Clutter-Message: 09:26:31.520: Sync method: PRESENTATION TIME
+Cjs-Message: 09:26:31.686: JS LOG: About to start Cinnamon
+Cjs-Message: 09:26:31.686: JS LOG: ACTIVATING SOFTWARE RENDERING
+Cjs-Message: 09:26:31.687: JS LOG: [LookingGlass/error] Cinnamon Software Rendering mode enabled
+Cjs-Message: 09:26:31.784: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 95 ms
+Cjs-Message: 09:26:31.794: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 09:26:31.812: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+Cjs-Message: 09:26:32.091: JS LOG: [LookingGlass/info] loaded at Tue Jul 26 2022 09:26:32 GMT+0100 (West Africa Standard Time)
+Cjs-Message: 09:26:32.092: JS LOG: Cinnamon started at Tue Jul 26 2022 09:26:32 GMT+0100 (West Africa Standard Time)
+Cjs-Message: 09:26:32.115: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Cjs-Message: 09:26:32.115: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Cjs-Message: 09:26:32.115: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 09:26:32.189: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 42 ms
+Cjs-Message: 09:26:32.197: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 8 ms
+Cjs-Message: 09:26:32.203: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 09:26:32.206: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 9 ms
+St-Message: 09:26:32.213: cogl npot texture sizes SUPPORTED
+Cjs-Message: 09:26:32.223: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 17 ms
+Cjs-Message: 09:26:32.265: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 42 ms
+Cjs-Message: 09:26:32.286: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 21 ms
+Cjs-Message: 09:26:32.330: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 44 ms
+Cjs-Message: 09:26:32.342: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 09:26:32.355: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 25 ms
+Cjs-Message: 09:26:32.360: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 5 ms
+Cjs-Message: 09:26:32.398: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 09:26:32.401: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 41 ms
+Cjs-Message: 09:26:32.420: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 18 ms
+
+** (csd-power:1268): CRITICAL **: 09:26:32.434: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 09:26:32.459: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 39 ms
+Cjs-Message: 09:26:32.503: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 44 ms
+Cjs-Message: 09:26:32.778: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 274 ms
+Cjs-Message: 09:26:32.788: JS LOG: [LookingGlass/info] AppletManager started in 695 ms
+Cjs-Message: 09:26:32.803: JS LOG: [LookingGlass/info] Cinnamon took 1114 ms to start
+Cjs-Message: 09:26:32.978: JS LOG: Unknown network device type, is 14
+Cjs-Message: 09:26:33.274: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+** Message: 09:26:33.659: nemo-desktop: session is cinnamon, establishing proxy
+Nemo-Share-Message: 09:26:34.349: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+cinnamon-session[1083]: WARNING: t+8.65491s: Detected that screensaver has appeared on the bus
+Cjs-Message: 09:26:53.816: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.95/org/x/StatusIcon/Icon)
+Cjs-Message: 09:27:13.527: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.120/org/x/StatusIcon/Icon)
+Cjs-Message: 11:56:52.463: JS LOG: An active wireless connection, in infrastructure mode, involves no access point?
+Cjs-Message: 12:02:03.406: JS LOG: An active wireless connection, in infrastructure mode, involves no access point?
+nm-applet-Message: 12:11:55.022: No keyring secrets found for Auto SmartTechy/802-11-wireless-security; asking user.
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3a00008 (Wi-Fi Netw)
+
+(cinnamon:1324): Cjs-CRITICAL **: 12:12:02.801: JS ERROR: TypeError: this._notification is null
+_notificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1119:13
+
+Cjs-Message: 13:54:02.539: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:99:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:133:20
+_updateNotificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1107:22
+_showNotificationCompleted@/usr/share/cinnamon/js/ui/messageTray.js:1096:14
+_tweenComplete@/usr/share/cinnamon/js/ui/messageTray.js:1007:24
+_addHandler/params[name]@/usr/share/cinnamon/js/ui/tweener.js:256:24
+_callOnFunction@resource:///org/gnome/gjs/modules/script/tweener/tweener.js:208:16
+_updateTweenByIndex@resource:///org/gnome/gjs/modules/script/tweener/tweener.js:339:24
+_updateTweens@resource:///org/gnome/gjs/modules/script/tweener/tweener.js:352:18
+_onEnterFrame@resource:///org/gnome/gjs/modules/script/tweener/tweener.js:367:10
+_emit@resource:///org/gnome/gjs/modules/core/_signals.js:133:47
+_onNewFrame@/usr/share/cinnamon/js/ui/tweener.js:413:14
+_init/<@/usr/share/cinnamon/js/ui/tweener.js:389:22
+
+Cjs-Message: 16:38:20.408: JS LOG: An active wireless connection, in infrastructure mode, involves no access point?
+Cjs-Message: 17:41:41.888: JS LOG: wireless_set_enabled
+cinnamon-session[1083]: WARNING: t+29971.08846s: Playing logout sound '/usr/share/mint-artwork/sounds/logout.ogg'
+cinnamon-session[1083]: WARNING: t+29971.20535s: Finished playing logout sound
+cinnamon-session[1083]: WARNING: t+29971.20552s: Resuming logout sequence...
+cinnamon-session[1083]: WARNING: t+29972.15549s: Requesting system shutdown...
+cinnamon-session[1083]: WARNING: t+29972.15594s: Attempting to shutdown using systemd...
+cinnamon-session[1083]: WARNING: t+29972.18616s: Application 'cinnamon-settings-daemon-screensaver-proxy.desktop' killed by signal 15
+cinnamon-session[1083]: WARNING: t+29972.18640s: Application 'cinnamon-settings-daemon-print-notifications.desktop' killed by signal 15

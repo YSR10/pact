@@ -1,0 +1,6 @@
+2022/07/25-13:09:31.755 23c8 Creating DB /home/codevillage/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2022/07/25-13:09:31.762 23c8 Reusing MANIFEST /home/codevillage/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/25-13:11:21.252 23c8 Level-0 table #5: started
+2022/07/25-13:11:21.258 23c8 Level-0 table #5: 3675 bytes OK
+2022/07/25-13:11:21.267 23c8 Delete type=0 #3
+2022/07/25-13:11:21.267 23c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

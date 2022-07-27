@@ -1,0 +1,41 @@
+[desktop-monitor-0]
+nemo-icon-view-keep-aligned=true
+nemo-icon-view-auto-layout=true
+nemo-icon-view-layout-timestamp=1658910114
+desktop-grid-adjust=84;108;
+
+[home]
+nemo-icon-position-timestamp=1658910114
+nemo-icon-position=59,160
+monitor=0
+icon-scale=1
+
+[computer]
+nemo-icon-position-timestamp=1658910114
+nemo-icon-position=59,52
+monitor=0
+icon-scale=1
+
+[Spreadtrum Phone.volume]
+nemo-icon-position-timestamp=1658751859
+nemo-icon-position=59,268
+monitor=0
+icon-scale=1
+
+[320 GB Volume.volume]
+nemo-icon-position=59,268
+monitor=0
+icon-scale=1
+nemo-icon-position-timestamp=1656323817
+
+[MTN WIFI.volume]
+nemo-icon-position=59,268
+monitor=0
+icon-scale=1
+nemo-icon-position-timestamp=1658226561
+
+[Infinix X606.volume]
+nemo-icon-position=59,268
+monitor=0
+icon-scale=1
+nemo-icon-position-timestamp=1656942526

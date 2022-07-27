@@ -1,0 +1,10 @@
+2022/06/20-15:21:40.635 833 Creating DB /home/codevillage/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2022/06/20-15:21:40.640 833 Reusing MANIFEST /home/codevillage/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/20-15:21:42.886 833 Level-0 table #5: started
+2022/06/20-15:21:42.888 833 Level-0 table #5: 2617 bytes OK
+2022/06/20-15:21:42.891 833 Delete type=0 #3
+2022/06/20-15:21:42.891 833 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/06/20-15:22:22.605 985 Level-0 table #7: started
+2022/06/20-15:22:22.607 985 Level-0 table #7: 2253 bytes OK
+2022/06/20-15:22:22.611 985 Delete type=0 #4
+2022/06/20-15:22:22.612 985 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
